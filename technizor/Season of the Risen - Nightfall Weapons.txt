@@ -1,7 +1,7 @@
 title:Season of the Risen - Nightfall Weapons
 
 // PLUG ONE.1 (Adept) - PVP (pvp)
-//notes: tags:pvp
+//notes: Successful Warmup will likely be neutered by the PVP Scavenger mod removal, but it can still work in 1v3 clutch scenarios. tags:pvp
 dimwishlist:item=534775659&perks=839105230,3868766766,1645158859,2652708987
 dimwishlist:item=534775659&perks=839105230,3868766766,1645158859,1754714824
 dimwishlist:item=534775659&perks=839105230,3868766766,1570042021,2652708987
@@ -77,7 +77,7 @@ dimwishlist:item=534775659&perks=4090651448,2969185026,1570042021,1754714824
 
 
 // PLUG ONE.1 (Adept) - Like a Rapid-Fire Frame (pve)
-//notes: tags:pve
+//notes: If you feel like having reloading constantly is a chore. tags:pve
 dimwishlist:item=534775659&perks=1840239774,2680121939,2779035018,2652708987
 dimwishlist:item=534775659&perks=1840239774,689005463,2779035018,2652708987
 dimwishlist:item=534775659&perks=1840239774,3868766766,2779035018,2652708987
@@ -109,7 +109,7 @@ dimwishlist:item=534775659&perks=1392496348,2969185026,2779035018,2652708987
 
 
 // PLUG ONE.1 (Adept) - Reservoir Burst (pve)
-//notes: tags:pve
+//notes: If you like reloading constantly and wish this could use Volatile Rounds. tags:pve
 dimwishlist:item=534775659&perks=1840239774,689005463,671806388,1427256713
 dimwishlist:item=534775659&perks=1840239774,689005463,2779035018,1427256713
 dimwishlist:item=534775659&perks=1840239774,3868766766,671806388,1427256713
@@ -169,7 +169,7 @@ dimwishlist:item=534775659&perks=1392496348,2969185026,2779035018,1427256713
 
 
 // Duty Bound (Adept) - PVE (pve)
-//notes: tags:pve
+//notes: PVE. Reload Perk and a Damage Perk. tags:pve
 dimwishlist:item=1135050595&perks=839105230,1885400500,1583705720,4049631843
 dimwishlist:item=1135050595&perks=839105230,1885400500,1583705720,1546637391
 dimwishlist:item=1135050595&perks=839105230,1885400500,1583705720,4104185692
@@ -273,7 +273,7 @@ dimwishlist:item=1135050595&perks=1482024992,3142289711,1583705720,3425386926
 
 
 // Duty Bound (Adept) - Meme PVE (pve)
-//notes: tags:pve
+//notes: For when you feel like holding it down. tags:pve
 dimwishlist:item=1135050595&perks=839105230,106909392,3400784728,1354429876
 dimwishlist:item=1135050595&perks=839105230,1087426260,3400784728,1354429876
 dimwishlist:item=1135050595&perks=839105230,2420895100,3400784728,1354429876
@@ -302,7 +302,7 @@ dimwishlist:item=1135050595&perks=1482024992,1885400500,3400784728,1354429876
 
 
 // Duty Bound (Adept) - PVP (pvp)
-//notes: tags:pvp
+//notes: Scathelocke is better in the range department, unless you have a preference for aiming on 18 zoom over 20 zoom. tags:pvp
 dimwishlist:item=1135050595&perks=839105230,1885400500,1428297954,1359896290
 dimwishlist:item=1135050595&perks=839105230,1885400500,509074078,1359896290
 dimwishlist:item=1135050595&perks=839105230,3142289711,1428297954,1359896290
@@ -346,7 +346,7 @@ dimwishlist:item=1135050595&perks=4090651448,3230963543,509074078,1359896290
 
 
 // Silicon Neuroma (Adept) - Snapshot (pvp)
-//notes: tags:pvp
+//notes: Tried and true PVP Snapshot Sights. tags:pvp
 dimwishlist:item=1387987271&perks=1840239774,1561002382,957782887,47981717
 dimwishlist:item=1387987271&perks=1840239774,1885400500,957782887,47981717
 dimwishlist:item=1387987271&perks=1840239774,1968497646,957782887,47981717
@@ -380,7 +380,7 @@ dimwishlist:item=1387987271&perks=1482024992,3142289711,957782887,47981717
 
 
 // Silicon Neuroma (Adept) - Post-Snapshot Nerf (pvp)
-//notes: tags:pvp
+//notes: In S17, Snapshot will move from a 0.5x animation duration modifier to a 0.75x modifier, while the base sniper animation duration will be sped up by 0.9x. The result is 0.675x for Snapshot snipers, which makes Snapshot Sights have 25% less value than it has in S16 and earlier. tags:pvp
 dimwishlist:item=1387987271&perks=1840239774,1561002382,280464955,47981717
 dimwishlist:item=1387987271&perks=1840239774,1561002382,509074078,47981717
 dimwishlist:item=1387987271&perks=1840239774,1561002382,1428297954,47981717
@@ -474,7 +474,7 @@ dimwishlist:item=1387987271&perks=1482024992,3142289711,1428297954,47981717
 
 
 // Silicon Neuroma (Adept) - PVE DPS (pve)
-//notes: Extended Barrel only with Triple Tap and Backup Mag for a base magazine size of 5 (procs Triple Tap twice per mag) tags:pve
+//notes: DPS. Extended Barrel only with Triple Tap and Backup Mag for a base magazine size of 5 (procs Triple Tap twice per mag) tags:pve
 dimwishlist:item=1387987271&perks=1840239774,1087426260,3400784728,1771339417
 dimwishlist:item=1387987271&perks=1840239774,1087426260,3400784728,2896038713
 dimwishlist:item=1387987271&perks=1840239774,2420895100,3400784728,1771339417
@@ -498,7 +498,7 @@ dimwishlist:item=1387987271&perks=1482024992,2420895100,3400784728,2896038713
 
 
 // The Palindrome (Adept) - PVP Dueling (god-pvp)
-//notes: tags:god-pvp
+//notes: Dueling rolls. High-Impact Reserves can generate a 2 Precision, 1 Body kill on lower in the magazine. tags:god-pvp
 dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2846385770
 dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,2213355989
 dimwishlist:item=1481892490&perks=3250034553,1561002382,3643424744,2846385770
@@ -566,7 +566,7 @@ dimwishlist:item=1481892490&perks=1840239774,1087426260,3643424744,2213355989
 
 
 // The Hothead (Adept) - DPS (god-pve)
-//notes: tags:god-pve
+//notes: Clown Cartridge is a DPS perk. Field Prep increases reload animation speed and reserves. Crouch and unload. tags:god-pve
 dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,2284787283
 dimwishlist:item=1866778462&perks=3525010810,2822142346,2869569095,2284787283
 dimwishlist:item=1866778462&perks=3525010810,2985827016,2869569095,2284787283
@@ -582,7 +582,7 @@ dimwishlist:item=1866778462&perks=1441682018,2985827016,2869569095,2284787283
 
 
 // The Hothead (Adept) - PVE (pve)
-//notes: tags:pve
+//notes: For running and gunning, when you don't have the time to crouch and fire off your entire reserves. tags:pve
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3300816228,3194351027
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3523296417,3194351027
 dimwishlist:item=1866778462&perks=3525010810,2822142346,3300816228,3194351027
@@ -610,7 +610,7 @@ dimwishlist:item=1866778462&perks=1441682018,2985827016,3523296417,3194351027
 
 
 // The Comedian (Adept) - Not Listening to Datto (pve)
-//notes: tags:pve
+//notes: Not Listening to Datto: shield perks only tags:pve
 dimwishlist:item=2443900757&perks=1300023272,791862061,3096702027,2209918983
 dimwishlist:item=2443900757&perks=1300023272,3142289711,3096702027,2209918983
 dimwishlist:item=2443900757&perks=1300023272,679225683,3096702027,2209918983
@@ -634,7 +634,7 @@ dimwishlist:item=2443900757&perks=1047830412,1087426260,3096702027,2209918983
 
 
 // The Comedian (Adept) - Low Tier PVE (pve)
-//notes: tags:pve
+//notes: If you want to mow through weak enemies until your reserves are out, this is the way. tags:pve
 dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,3108830275
 dimwishlist:item=2443900757&perks=1300023272,791862061,1820235745,2726471870
 dimwishlist:item=2443900757&perks=1300023272,3142289711,1820235745,3108830275
@@ -678,7 +678,7 @@ dimwishlist:item=2443900757&perks=1047830412,1087426260,1820235745,2726471870
 
 
 // The Comedian (Adept) - Spread is Good, Right? (pve)
-//notes: tags:pve
+//notes: For the unfocused among us. tags:pve
 dimwishlist:item=2443900757&perks=1300023272,791862061,1583705720,4049631843
 dimwishlist:item=2443900757&perks=1300023272,3142289711,1583705720,4049631843
 dimwishlist:item=2443900757&perks=1300023272,679225683,1583705720,4049631843
